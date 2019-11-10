@@ -12,10 +12,12 @@ Proposal for a Data Analysis Project in Telecommunication field
 
     2. IoT Internet of things
 [EU IoT Pilots]( https://european-iot-pilots.eu/ )
+
 [IoT Reasearch]( https://ec.europa.eu/digital-single-market/en/research-innovation-iot )
 
     3. Smart cities
 [EU Smart Cities Project]( https://european-iot-pilots.eu/projects/ )
+
 [5G serving Smart Cities]( https://ec.europa.eu/digital-single-market/en/news/europe-advancing-5g-new-wave-projects-launched-accelerate-5g-take-vertical-industries )
 
 - What data-driven questions do you hope to answer about this domain (share at least 3)?
@@ -28,7 +30,7 @@ Proposal for a Data Analysis Project in Telecommunication field
   ## Finding Data
 
 - Where did you download the data (e.g., a web URL)?
-[Open Plateform of French public Data]( https://www.data.gouv.fr/fr/datasets/mon-reseau-mobile/#_ )
+  - [Open Plateform of French public Data]( https://www.data.gouv.fr/fr/datasets/mon-reseau-mobile/#_ )
 
 - How was the data collected or generated? Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
   - The data was collected and gerated by ARCEP authority, which is The Regulatory Authority for Electronic Communications, Post and Press Distribution in France.The dataset identifies/locates the mobile antennas of the four carriers in France and the availability of different technologies (2G, 3G, 4G) on these sites.
