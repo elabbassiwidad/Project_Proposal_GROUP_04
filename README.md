@@ -11,13 +11,11 @@ Proposal for a Data Analysis Project in Telecommunication field
 [5G Project]( https://5g-ppp.eu/projects/ )
 
     2. IoT Internet of things
-[EU IoT Pilots]( https://european-iot-pilots.eu/ )
-
+[EU IoT Pilots]( https://european-iot-pilots.eu/ ) ; 
 [IoT Reasearch]( https://ec.europa.eu/digital-single-market/en/research-innovation-iot )
 
     3. Smart cities
-[EU Smart Cities Project]( https://european-iot-pilots.eu/projects/ )
-
+[EU Smart Cities Project]( https://european-iot-pilots.eu/projects/ ) ; 
 [5G serving Smart Cities]( https://ec.europa.eu/digital-single-market/en/news/europe-advancing-5g-new-wave-projects-launched-accelerate-5g-take-vertical-industries )
 
 - What data-driven questions do you hope to answer about this domain (share at least 3)?
